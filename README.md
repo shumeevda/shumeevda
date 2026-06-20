@@ -27,5 +27,5 @@
 
 Буду рад обсудить потенциальное сотрудничество или интересные проекты:
 
-- **Telegram:** [@ShumeevDmitry]
-- **Email:** [shumeevda1994@gmail.com]
+- **Telegram:** @ShumeevDmitry
+- **Email:** shumeevda1994@gmail.com
